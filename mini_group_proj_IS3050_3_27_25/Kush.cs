@@ -1,5 +1,7 @@
-﻿/* Group 24 member 1: Chuck Moore
- * 
+﻿/*
+ *  Created by Chuck Moore/Person 1
+ *  Edited by Kush Patel/Person 2
+
  * 
  * 
  */
@@ -17,7 +19,7 @@ namespace mini_group_proj_IS3050_3_27_25
     {
         private string _gatorade_flavor;
         private int _sugar_amount;
-
+        
 
         public int Sugar_amount { get { return _sugar_amount; } set { _sugar_amount = value; } }
         // Add the getter and setter for the gatorade property
